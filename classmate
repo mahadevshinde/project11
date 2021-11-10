@@ -3,3 +3,10 @@ git has 3 stages
 first is working space
 second is stageing area
 third is local repo
+<<<<<<< HEAD
+=======
+and this line is new one
+ple chek that one
+another file is updated 
+and last one
+>>>>>>> 1b8e7d720a0ab8bc426ea557bfcf4e6eb3d8f596
